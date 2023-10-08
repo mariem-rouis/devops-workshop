@@ -1,0 +1,5 @@
+
+# Files and directories to ignore when building the Docker image
+
+# Node.js modules and dependencies
+node_modules
